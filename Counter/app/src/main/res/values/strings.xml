@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Counter</string>
-    <string name="Rupees">\u20b9</string>
-
-    <string name="title_activity_fullscreen">FullscreenActivity</string>
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">NOTE COUNTER\nCUSRA INFO TECH</string>
-</resources>
